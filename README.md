@@ -105,11 +105,13 @@
    └─ [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 
 **硬體規格 (Hardware Specs)**
-* ├─ **Mobile**
-* │  └─ [![Pixel 8](https://img.shields.io/badge/Mobile-Google_Pixel_8_(Android_17)-4285F4?style=for-the-badge&logo=googlepixel&logoColor=white)](https://store.google.com/)
-* └─ **Workstation**
-   ├─ [![Dell Workstation](https://img.shields.io/badge/System-Dell_Precision_7820-0076CE?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com)
-   │  ├─ [![Xeon Gold](https://img.shields.io/badge/CPU-Intel_Xeon_Gold_6248-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com)
-   │  ├─ [![RAM](https://img.shields.io/badge/RAM-32GB_Registered_DDR4-41AD49?style=for-the-badge&logo=ram&logoColor=white)](#)
-   │  └─ [![Radeon PRO](https://img.shields.io/badge/GPU-AMD_Radeon_PRO_W6800-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com)
-   └─ [![Dell Display](https://img.shields.io/badge/Display-Dell_U2718Q_(4K)-0076CE?style=for-the-badge&logo=dell&logoColor=white)](#)
+
+**Mobile**
+* [![Pixel 8](https://img.shields.io/badge/Mobile-Google_Pixel_8_(Android_17)-4285F4?style=for-the-badge&logo=googlepixel&logoColor=white)](https://store.google.com/)
+
+**Workstation**
+* [![Dell Workstation](https://img.shields.io/badge/System-Dell_Precision_7820-0076CE?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com)
+* [![Xeon Gold](https://img.shields.io/badge/CPU-Intel_Xeon_Gold_6248-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com)
+* [![RAM](https://img.shields.io/badge/RAM-32GB_Registered_DDR4-41AD49?style=for-the-badge&logo=ram&logoColor=white)](#)
+* [![Radeon PRO](https://img.shields.io/badge/GPU-AMD_Radeon_PRO_W6800-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com)
+* [![Dell Display](https://img.shields.io/badge/Display-Dell_U2718Q_(4K)-0076CE?style=for-the-badge&logo=dell&logoColor=white)](#)
