@@ -72,10 +72,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Ongoing_Journey-7d3c98?style=for-the-badge&logo=rocket&logoColor=white" alt="Journey">
-</p>
-
 ### 📈 GitHub 統計 (GitHub Metrics)
 
 <!-- 你的 GitHub Metrics 圖片將會顯示在這裡 -->
