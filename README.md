@@ -8,6 +8,8 @@ Furthermore, I have a particular fondness for games and Nekos. ( •̀ ω •́ 
 
 <img src="https://user-images.githubusercontent.com/22280294/179611382-5704fe4f-ef8c-40f2-b868-5921cfb56da6.png" alt="pusheen" height="160px">
 
+[![BunnyMiku](https://cdn3.emoji.gg/emojis/34405-bunnymiku.gif)](https://emoji.gg/emoji/34405-bunnymiku)
+
 ### 🌎 I can speak <!--{ collapseSection() }-->
 
 * cn 中文
