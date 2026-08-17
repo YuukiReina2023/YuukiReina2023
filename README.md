@@ -22,14 +22,11 @@
   </tr>
 </table>
 
-<details>
-<summary><b>🌎 語言能力 / Languages ( 點擊展開 / Click to expand )</b></summary>
+### 🌎 語言能力 / Languages
 
 * **CN**: 中文 (Native)
 * **JP**: 日本語 (Learning)
 * **EN**: English (Learning)
-
-</details>
 
 ### 🏥 健康狀況 (Health Status)
 
@@ -60,54 +57,12 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <b>成長與創作 (Growth & Creative)</b>
+      <b>未來展望 (Future Vision)</b>
       <br><br>
       <ul>
-        <li><input type="checkbox" checked> 掌握 Blender 基礎建模與渲染</li>
-        <li><input type="checkbox" disabled> 創作首個 3D 動畫短片</li>
-        <li><input type="checkbox" disabled> 成為一名合格的 Motion Graphics Artist</li>
-        <li><input type="checkbox" disabled> 成為真正的 Catgirl Engineer (喵~)</li>
+        <li><input type="checkbox" disabled> 成為出色的 Motion Graphics Artist</li>
+        <li><input type="checkbox" disabled> 熟練掌握 C++ 與 Python 開發</li>
       </ul>
     </td>
   </tr>
 </table>
-
-### 📈 GitHub 統計 (GitHub Metrics)
-
-<!-- 你的 GitHub Metrics 圖片將會顯示在這裡 -->
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
-
-### 💻 工作環境與系統 (Work Environment & Systems)
-
-**作業系統 (Operating Systems)**
-* ├─ **Mobile OS**
-* │  └─ [![Android](https://img.shields.io/badge/Android_17-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://en.wikipedia.org/wiki/Android_(operating_system))
-* └─ **Desktop / Server OS**
-   ├─ [![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://en.wikipedia.org/wiki/Windows_11)
-   ├─ [![Windows Server 2025](https://img.shields.io/badge/Windows_Server_2025-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Server_2025)
-   ├─ [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://en.wikipedia.org/wiki/NixOS)
-   └─ [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://en.wikipedia.org/wiki/Arch_Linux)
-
-**技能與工具 (Skills & Tools)**
-* ├─ **Graphics & CG**
-* │  ├─ [![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)](https://en.wikipedia.org/wiki/Blender_(software))
-* │  ├─ [![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_After_Effects)
-* │  └─ [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Premiere_Pro)
-* └─ **Development**
-   ├─ [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-   ├─ [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
-   └─ [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-
-**硬體規格 (Hardware Specs)**
-
-**Mobile**
-* [![Pixel 8](https://img.shields.io/badge/Mobile-Google_Pixel_8_(Android_17)-4285F4?style=for-the-badge&logo=googlepixel&logoColor=white)](https://store.google.com/)
-
-**Workstation**
-* [![Dell Workstation](https://img.shields.io/badge/System-Dell_Precision_7820-0076CE?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com)
-* [![Xeon Gold](https://img.shields.io/badge/CPU-Intel_Xeon_Gold_6248-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com)
-* [![RAM](https://img.shields.io/badge/RAM-32GB_Registered_DDR4-41AD49?style=for-the-badge&logo=ram&logoColor=white)](#)
-* [![Radeon PRO](https://img.shields.io/badge/GPU-AMD_Radeon_PRO_W6800-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com)
-* [![Dell Display](https://img.shields.io/badge/Display-Dell_U2718Q_(4K)-0076CE?style=for-the-badge&logo=dell&logoColor=white)](#)
