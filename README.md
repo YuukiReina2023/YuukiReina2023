@@ -73,7 +73,7 @@
 
 <!-- 你的 GitHub Metrics 圖片將會顯示在這裡 -->
 <p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 ### 💻 工作環境與系統 (Work Environment & Systems)
